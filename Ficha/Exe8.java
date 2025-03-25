@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ 8. Construa um programa que solicite ao utilizador a sua data de
+nascimento e de seguida a imprima por extenso.
  */
 package Ficha;
 

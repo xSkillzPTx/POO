@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+3. Construa um programa que que solicite o nome de um dia em
+português e de seguida imprima o nome em inglês utilizando a
+enumeração.
  */
 package Ficha;
 

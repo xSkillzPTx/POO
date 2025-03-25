@@ -1,6 +1,8 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ 1. Contrua um programa que defina uma enumeração para
+representar os dias da semana (Segunda…Domingo). Construa uma
+aplicação que declare uma enumeração com dia de terça e de
+seguida imprima o seu nome em português.
  */
 package Ficha;
 

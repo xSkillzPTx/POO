@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+2. Construa um programa que declare o dia de quarta e de seguida
+imprima o seu nome em inglês.
  */
 package Ficha;
 
