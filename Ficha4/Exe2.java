@@ -2,7 +2,7 @@
 2. Construa um programa que declare o dia de quarta e de seguida
 imprima o seu nome em inglês.
  */
-package Ficha;
+package Ficha4;
 
 /**
  *

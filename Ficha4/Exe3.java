@@ -3,7 +3,7 @@
 português e de seguida imprima o nome em inglês utilizando a
 enumeração.
  */
-package Ficha;
+package Ficha4;
 
 /**
  *

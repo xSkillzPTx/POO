@@ -4,7 +4,7 @@ representar os dias da semana (Segunda…Domingo). Construa uma
 aplicação que declare uma enumeração com dia de terça e de
 seguida imprima o seu nome em português.
  */
-package Ficha;
+package Ficha4;
 
 /**
  *
