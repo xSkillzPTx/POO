@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Enum.java to edit this template
- */
 package Ficha4;
 
 /**
@@ -28,5 +24,10 @@ public enum MesesDoAno {
             return 29;
         }
        return dias;
+    }
+    
+    public MesesDoAno proximoMes() {
+        int proximoIndex = (this.ordinal() + 1) % MesesDoAno.values().length;
+        return MesesDoAno.values()[proximoIndex];
     }
 }
